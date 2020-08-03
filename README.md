@@ -1,5 +1,6 @@
-
-# Robot Ball Chaser
+# Ball Chasing Robot
+## Robotics Software Engineer Nanodegree Program, Udacity
+### Project: Go Chase It!
 
 This repository contains two packages, which combined simulate a robot capable of chasing a white ball through the environment.
 
